@@ -33,6 +33,11 @@ out in the open.
       <br><b><a href="https://github.com/arsamasif/maya-rep-switch">maya-rep-switch</a></b>
       <br>Switch assets between proxy, Alembic, render and USD versions from a panel or the right-click menu.
     </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/arsamasif/maya-asset-gate"><img src="https://raw.githubusercontent.com/arsamasif/maya-asset-gate/master/docs/checklist_before.png" alt="Asset Gate checklist"></a>
+      <br><b><a href="https://github.com/arsamasif/maya-asset-gate">maya-asset-gate</a></b> (in progress)
+      <br>Check, fix and publish Maya assets to USD. A rethink of tools like Pyblish.
+    </td>
   </tr>
 </table>
 
