@@ -27,6 +27,13 @@ out in the open.
       <br>Proxy rigs from skin weights, IK/FK matching, rig checks and an mGear wheel.
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/arsamasif/maya-rep-switch"><img src="https://raw.githubusercontent.com/arsamasif/maya-rep-switch/master/docs/panel.png" alt="Representation switcher panel"></a>
+      <br><b><a href="https://github.com/arsamasif/maya-rep-switch">maya-rep-switch</a></b>
+      <br>Switch assets between proxy, Alembic, render and USD versions from a panel or the right-click menu.
+    </td>
+  </tr>
 </table>
 
 **Day to day:** Python, Maya API, USD, Alembic, PySide, Rez, Deadline, ShotGrid
