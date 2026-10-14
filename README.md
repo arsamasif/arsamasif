@@ -12,12 +12,12 @@ out in the open.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/arsamasif/maya-slash-trail"><img src="https://raw.githubusercontent.com/arsamasif/maya-slash-trail/master/docs/slash_trail.png" alt="Slash trails in Maya"></a>
+      <a href="https://github.com/arsamasif/maya-slash-trail"><img src="https://raw.githubusercontent.com/arsamasif/maya-slash-trail/master/docs/slash_trail.png" alt="Sword slash and ball trail in Maya"></a>
       <br><b><a href="https://github.com/arsamasif/maya-slash-trail">maya-slash-trail</a></b>
       <br>Glowing slash and motion trails for anything you animate in Maya.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/arsamasif/maya-scene-harvest"><img src="https://raw.githubusercontent.com/arsamasif/maya-scene-harvest/main/docs/app_charts.png" alt="Scene Harvest app"></a>
+      <a href="https://github.com/arsamasif/maya-scene-harvest"><img src="https://raw.githubusercontent.com/arsamasif/maya-scene-harvest/main/docs/app_charts.png" alt="The Scene Harvest app after harvesting five Maya scenes"></a>
       <br><b><a href="https://github.com/arsamasif/maya-scene-harvest">maya-scene-harvest</a></b>
       <br>Opens folders of Maya and USD scenes in the background and turns what's in them into tables and charts.
     </td>
@@ -34,7 +34,7 @@ out in the open.
       <br>Switch assets between proxy, Alembic, render and USD versions from a panel or the right-click menu.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/arsamasif/maya-asset-gate"><img src="https://raw.githubusercontent.com/arsamasif/maya-asset-gate/master/docs/checklist_before.png" alt="Asset Gate checklist"></a>
+      <a href="https://github.com/arsamasif/maya-asset-gate"><img src="https://raw.githubusercontent.com/arsamasif/maya-asset-gate/master/docs/checklist_before.png" alt="The Asset Gate checklist on a broken chair"></a>
       <br><b><a href="https://github.com/arsamasif/maya-asset-gate">maya-asset-gate</a></b> (in progress)
       <br>Check, fix and publish Maya assets to USD. A rethink of tools like Pyblish.
     </td>
